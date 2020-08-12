@@ -1,0 +1,25 @@
+header{
+    background-image: url("Images/spec.jpg");
+    background-size: cover;
+}
+h1{
+    color: rgb(0, 0, 0);
+    background-color: gray;
+    text-align: center;
+    width: fit-content;
+    margin-left: 40%;
+}
+p{
+   color: darkblue; 
+   text-align: center;
+   text-emphasis: 1;
+}
+.like{
+    align-items: center;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: gray;
+    padding: 1px;
+}
