@@ -4,17 +4,23 @@ header{
     size: 100px;
 }
 h1{
-    color: rgb(0, 0, 0);
+    color: blue);
     background-color: gray;
     text-align: center;
     width: fit-content;
     margin-left: 40%;
 }
-p{
-   color: darkblue; 
-   text-align: center;
-   text-emphasis: 1;
-}
+h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+  }
+  p {
+    font-family: sans-serif;
+  }
+  ul {
+    line-height: 40px;
+  }
 .like{
     align-items: center;
     text-align: center;
