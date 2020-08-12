@@ -1,6 +1,7 @@
 header{
     background-image: url("Images/spec.jpg");
     background-size: cover;
+    size: 100px;
 }
 h1{
     color: rgb(0, 0, 0);
