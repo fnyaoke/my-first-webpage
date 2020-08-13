@@ -1,5 +1,5 @@
 header{
-    background-image: url("Images/spec.jpg");
+   background-color: cornsilk;
     background-size: cover;
     size: 100px;
 }
@@ -27,4 +27,12 @@ footer{
     text-align: center;
     background-color: gray;
     padding: 1px;
+}
+em{
+    font-weight: bolder;
+    font-size: 18px;
+    font-style: normal;
+}
+strong{
+    font-style: italic;
 }
