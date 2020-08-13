@@ -4,11 +4,8 @@ header{
     size: 100px;
 }
 h1{
-    color: blue);
-    background-color: gray;
-    text-align: center;
-    width: fit-content;
-    margin-left: 40%;
+    color: blue;
+    text-align: centre;
 }
 h2 {
     color: green;
@@ -24,6 +21,7 @@ h2 {
 .like{
     align-items: center;
     text-align: center;
+    line-height: 30px;
 }
 footer{
     text-align: center;
