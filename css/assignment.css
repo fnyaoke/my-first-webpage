@@ -1,0 +1,38 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: cornsilk;
+    size: 100px;
+ }
+ h1{
+     color: rgb(57, 3, 65);
+     text-align: centre;
+ }
+ h2 {
+     color: rgb(240, 50, 50);
+     font-style: italic;
+     text-align: center;
+   }
+   ul {
+     line-height: 40px;
+   }
+ .like{
+     align-items: center;
+     text-align: center;
+     line-height: 30px;
+ }
+ footer{
+     text-align: center;
+     background-color: gray;
+     padding: 1px;
+ }
+ em{
+     font-weight: bolder;
+     font-size: 18px;
+     font-style: normal;
+ }
+ strong{
+     font-style: italic;
+ }
